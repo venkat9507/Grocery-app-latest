@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digimart-44fde",
+  "private_key_id": "380293240f021827ce3834e4a4c9b92ed204cfae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCIjE6Eykpp530G\nuGFOEe0IFEPSXYRXjaIWQFJMGddqW7trVVBIiAHoAD0izc4gIDOEcU1stzoXnQqz\nDbqX/MhqCZm0oK0DK7+vpY1SgL7E1SdrK7p1ESxCJp1l4Zv8fh4neWwUbuywUtp1\n8DypeJJYf4HPDtVQVFSnW4srM5z79tFesDRsH9uZ/BQJMprwnxVXxxUPr9ssqfNR\nmupGxUAsQ96v1HnpIdbcL6wAnHbEyv9fdks7kf//Sje6A7y/aeA6EizlEQzNUGLB\nh2nv89NLQYKz6Je57T7HouZ4APVc79uIShKE7rStxosG/Q85hFpf3zhpT5WFdn8M\nnQwuMyexAgMBAAECggEAE/+srlEsZedkDdxqT/NbKnBBYKmWrPYO88BW7VNpk+e8\nguNbX0wgL1j9mz/WPSlKMk8f3ljVlsjG3OOZXRJGThV64BQaUtkQ+Yo/MQKvLgfj\n/pPIesXZnBSov9ezr17PTsu/UxzN6KMx4M0fLVj94h1Gp0tOXbYEMgC72Md16gcM\n7RQ4nnQvunuW8szQ6iYZG4EB9K//7VTbzETp30vD3fcsRiR9GVLci3mULf+ChvVb\n8o4vhtX6ZX51XVxHeplR5JiI/Wkli/W5LizLZO6NrKpBqFlVi/HOosSugUu16Hu8\nOvPFIlZGm+TsWFHh/gt4gKOVQN8iiwyX1pxCSPZ0UwKBgQC86TaHCQvghWOh05LN\nm0EW3S3ly5XjzZNezsXL5pctrxuFKNAtkjtePCXSwAyuEh+H7VwJrmk2KtCf3TNU\nrzhCodqWkXPRAnxTlG4wFpMRxsXz+H0d5bDkY1g6sAp5wz867gGiiFDpc7QAgFg0\nwuksb3GLY4HSCGRtr6Xj7sDrgwKBgQC5Cojf1/RwCncmQP4GP/16k1iJHWc6iHlF\np8QV5vGr+TBzhecnZFtVPMDENPRs+k+I5AYCvbM7AicT0fEfYAnPQghB7Z8MXmQQ\nkNW0+BBrqIRMBonX6pOT8gZ+Olko0n64dGkNtxnr3g6kCyAQddjXVgdXvm+C3DcT\nnIT7b1c1uwKBgFYof0gDJjmWXKR33GKNxpfo9H/z5D7riaUZ5ThjyNt7G7AVtyyx\nnwYRpKaEFMRnW54g8XMw6qdby569wiWDbMNnEkzNtebDnXR5I/Amu5jF8Y6d7GJw\nWccwUBMkKwLxu6ri1jgMt+phbN01rAUUSEiN41lRXuouDa/BBoX4ZGCFAoGARHjE\ne2hTGF6XBn3IQhHNv1zkxyAtQbicf4z7/0rNJOD579Wd2rLFJT5s6m3aALWDVtlh\n7AO8XdqHEUt/mSeVma8KlTLTxuTqzEJ8AhJFKUFbazKEMXSpFXbatjzrHzL9F05k\nTWHy4pfx/Pvs6ophKhW4c9yRMPBCJSym/M+Pit8CgYEAijw322XnVCH4AQBBOjOs\nfZubq2szD5h6QAFuP5tH6Do5qB32Bdc0y0hOMXq+8XZ7V9/R4sN4fNnR66ShR8WP\nOHrMoOQsf9ieSQvqOe3f+jY8RyfWv8e9vik0i4QtToqX/7Wv909w0mFMwx8qU+UM\nbqZlFz6uXLCeAfCwrkVtWUE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "digimart-dialogflow@digimart-44fde.iam.gserviceaccount.com",
+  "client_id": "108528209159823241105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/digimart-dialogflow%40digimart-44fde.iam.gserviceaccount.com"
+}

@@ -1,0 +1,2 @@
+com/paytm/allinonesdk/BuildConfig.java
+ com.paytm.allinonesdk.BuildConfig

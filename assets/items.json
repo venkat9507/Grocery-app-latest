@@ -1,0 +1,38 @@
+[
+  {
+    "imgUrl": "https://images.unsplash.com/photo-1501613051699-fecc2656410c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8cGxhbnQlMjBwb3R8ZW58MHwxfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+          "name": "Cactus",
+          "description":"Cactus in a pot",
+    "price": 110
+  },
+  {
+    "imgUrl": "https://images.unsplash.com/photo-1507988914355-bf49fdbc7368?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=326&q=80",
+          "name": "Snake Plant",
+          "description":"Potted Green Snake Plant on a white chair",
+    "price": 91
+  },
+  {
+    "imgUrl": "https://images.unsplash.com/photo-1581379408783-cb68a7353b2a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjF8fHBsYW50JTIwcG90fGVufDB8MXwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+          "name": "Green plant",
+          "description":"Green plant in a white pot",
+    "price": 94.5
+  },
+  {
+    "imgUrl": "https://images.unsplash.com/photo-1501613051699-fecc2656410c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8cGxhbnQlMjBwb3R8ZW58MHwxfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+          "name": "Cactus",
+          "description":"Cactus in a pot",
+    "price": 110
+  },
+  {
+    "imgUrl": "https://images.unsplash.com/photo-1507988914355-bf49fdbc7368?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=326&q=80",
+          "name": "Snake Plant",
+          "description":"Potted Green Snake Plant on a white chair",
+    "price": 91
+  },
+  {
+    "imgUrl": "https://images.unsplash.com/photo-1581379408783-cb68a7353b2a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjF8fHBsYW50JTIwcG90fGVufDB8MXwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+          "name": "Green plant",
+          "description":"Green plant in a white pot",
+    "price": 94.5
+  }
+]

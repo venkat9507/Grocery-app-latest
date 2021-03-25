@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "venkat-nxlr",
+  "private_key_id": "cb75be1c3d59776c900efeb7961d6dd7e7672b29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCdPF7RUYczsU/l\nymmy6v/Tt04V57B4/cHoaHUS/w0f2L94OTO0fr8r5f0kuCf/rTbeV9kLF7q6vtGH\nV2ueCB3kXlDDKrIaNz/HF9HsPBL5f5rrxtLhAe83d+RdZl5aq3MRbkALzZafF1sP\nE6EjuZshj2lQMaX5IGKW1g8jne+AEvwMNn+WxQLaj22SziGOC3ZEwikbsp/PyNOf\n+g1kGoemG+cnpZMI1oXRvwkqtaSaRrzUcsw+8pm+cBb3jbJ7ZkZbTfQK3+qjy6rk\n/lujI2Q4Z2GAjcxz3gddJaamxuSkiQzfaopckny3og+2s6j1NwMkK2J72gnWY9uy\nlw2HkJXjAgMBAAECggEAMu0rPrubwUvkN2acXoVLr9x2j5S3rTBvXiF7DdiK/S4c\nMcnBK+xDaen3WC3HUsHc/B3S4AtjAPot7hqL8ibp254KpXPONLyBTTAzX0LD2IiS\nelwu0A7q1nnf/rpZxB80yUf+uXPwnX2YkiUG84W5r6B9+SnjenGZTQZu59fPCxlY\nY7AMg1VlIxzQik3f23cfTRUqhM276rNadlYlvJiFsZ2otr0GC0msQctZqdTs6B84\nRAbG9FYUP2jMLHwr5l0Vamm9pj9vjSb0CRjhEQK/8ftNrkX8NsKowz4xjMW4fMe0\n4f4P2JqgV/yxy7UFty85iJnJCsLRVy5NkiTHAeJAnQKBgQDeFjjZjFKuGlaIJv+A\nEZhSC2diZP7f4TEUXwpFS72n3sg/hVWBFM6QI3D5WbQgPxC2jheYNk43YztEeTy6\nyZL6ksdX6zQxAMO3Au50aEpsDg0YTC9EOCfguND4dZClMme8ePy9nokyk5KIZAuI\nweHNrEYOqoE5Vyz9qBqdGC22ZwKBgQC1PwFUo/0WFb/HHjGJQjwHPxiCV/oMEGUR\nPOnGUDYbyJCS7XVPKXrrOZO8NilTVIi5WDklGgPE1F1R7qYPolP1gNZBhrIZ+vH9\nCUoiiDw7pxKAIfmkHSoAuadyiTBxkylFnyruz5pDIeU2F10u9DQTidypCTTTMs9b\nIEHGjnNfJQKBgQCCXhsbIXM7fnyDShk7zZhTuRwEN3MiaufLpIq76N05GN8F4rgx\noMws8pET3qONNlgSQdD56g76FocpB94ta7ya2OSp6IjnpyI8YT0nGj1ttsXbGIW6\njxhhozwQTbsOLkuU6JS8nr688MHYzJm0utNZT6KEY3Sd+12OvUp6I0JaSwKBgQCO\nSPUJdmfEA7T3Y0uuHpIzeiQKh3hkKia9np1Ds0qXCx/8SHBUghLeQOgq1DYjFfTz\n1D+gUcjtp23PWVOCaIQS8l7BODXvUWLRq45Ih70Jc4KBlqp9XOvRf+3la6/dKZM3\n9dllexL2atCfYz4jE1EimZLiHLkcqAHC3xLkBoaqBQKBgQCJFUYFPaOSprYZdyCI\nyTrLQuAQa2oCVKWmUFld+rucVaq0fVLu+cfLXXVlzAmG5U7by+7yyc6WoCVT5Cth\n3JrFC1p+uwTktZrO/79eTy760uDERCBTtihgUL7T/EdZ737c8oVk28l2UKJ91Qtr\nQJtNyMAmU851B9m0Wit9FaIx+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@venkat-nxlr.iam.gserviceaccount.com",
+  "client_id": "116322914572773780272",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40venkat-nxlr.iam.gserviceaccount.com"
+}

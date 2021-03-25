@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba9dfac6-a467-49db-b796-b266b4018c9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/50bf2235377f158db4bd7c8a26f0881d/kernel_snapshot.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeDexDebug/out/classes3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeDexDebug/out/classes3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/javac/debug/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/javac/debug/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/0/io/flutter/plugins/GeneratedPluginRegistrant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/0/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Bottom_nav_bar/store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Bottom_nav_bar/store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Bottom_nav_bar/stores.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Bottom_nav_bar/stores.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grocery-store/Grocery_Store_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/grocery-store/Grocery_Store_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grocery-store/cart demo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/grocery-store/cart demo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grocery-store/grocery_store_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/grocery-store/grocery_store_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grocery-store/grocery_store_cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/grocery-store/grocery_store_cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grocery-store/grocery_store_products.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/grocery-store/grocery_store_products.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gorceryappold" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nJtiqOLai5sfv4JaxhyRDCT0FN" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/Paytm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Paytm" />
+      <recent name="$PROJECT_DIR$/lib/Sign In &amp; log in" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/grocery-store" />
+      <recent name="$PROJECT_DIR$/ios" />
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/Icon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="grocery_store_bloc.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/grocery-store/grocery_store_bloc.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.grocery_store_bloc.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba9dfac6-a467-49db-b796-b266b4018c9b" name="Default Changelist" comment="" />
+      <created>1611120150936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611120150936</updated>
+    </task>
+    <task id="LOCAL-00001" summary="cart">
+      <created>1616160477561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616160477561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="cart" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1250" y="117" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615009647999">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state x="-1250" y="117" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615009647999" />
+    <state x="351" y="178" key="#grocery_store_bloc.dart" timestamp="1616242683020">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="351" y="178" key="#grocery_store_bloc.dart/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616242683020" />
+    <state x="331" y="52" key="CommitChangelistDialog2" timestamp="1616160477199">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="331" y="52" key="CommitChangelistDialog2/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616160477199" />
+    <state width="636" height="466" key="DebuggerActiveHint" timestamp="1616234490123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="636" height="466" key="DebuggerActiveHint/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616234490123" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom" timestamp="1616652584613">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-210.1920.1057@0.0.1440.900" timestamp="1616477715310" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616652584613" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616492070610" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615646345856" />
+    <state width="1136" height="297" key="GridCell.Tab.0.bottom/0.23.1440.821/-1920.-210.1920.1057@-1920.-210.1920.1057" timestamp="1615807408355" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615907963144" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center" timestamp="1616652584611">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-210.1920.1057@0.0.1440.900" timestamp="1616477715308" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616652584611" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616492070609" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615646345855" />
+    <state width="1136" height="297" key="GridCell.Tab.0.center/0.23.1440.821/-1920.-210.1920.1057@-1920.-210.1920.1057" timestamp="1615807408354" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615907963143" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left" timestamp="1616652584610">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-210.1920.1057@0.0.1440.900" timestamp="1616477715307" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616652584610" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616492070608" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615646345854" />
+    <state width="1136" height="297" key="GridCell.Tab.0.left/0.23.1440.821/-1920.-210.1920.1057@-1920.-210.1920.1057" timestamp="1615807408354" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615907963142" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right" timestamp="1616652584612">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-210.1920.1057@0.0.1440.900" timestamp="1616477715309" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616652584612" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616492070610" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615646345855" />
+    <state width="1136" height="297" key="GridCell.Tab.0.right/0.23.1440.821/-1920.-210.1920.1057@-1920.-210.1920.1057" timestamp="1615807408355" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615907963143" />
+    <state x="144" y="79" key="MergeDialog" timestamp="1616160560044">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616160560044" />
+    <state x="430" y="173" key="MultipleFileMergeDialog" timestamp="1616160565548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="430" y="173" key="MultipleFileMergeDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616160565548" />
+    <state x="466" y="168" key="RollbackChangesDialog" timestamp="1616160729905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="466" y="168" key="RollbackChangesDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616160729905" />
+    <state x="336" y="101" key="SettingsEditor" timestamp="1616168574206">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="336" y="101" key="SettingsEditor/0.0.1440.900/-1920.-210.1920.1057@0.0.1440.900" timestamp="1615538151624" />
+    <state x="-1472" y="-112" key="SettingsEditor/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615981486093" />
+    <state x="336" y="101" key="SettingsEditor/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616168574206" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1616055765633">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616055765633" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1616160488207">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616160488207" />
+    <state x="-1787" y="-132" width="1654" height="922" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1616650740505">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state x="100" y="76" width="1240" height="824" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.837/-1920.-210.1920.1057@0.0.1440.837" timestamp="1615616882108" />
+    <state x="100" y="84" width="1240" height="768" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.839/-1920.-210.1920.1057@0.0.1440.839" timestamp="1615531125173" />
+    <state x="100" y="84" width="1240" height="768" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.844/-1920.-210.1920.1057@0.0.1440.844" timestamp="1612156965276" />
+    <state x="-1787" y="-132" width="1654" height="922" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616591842991" />
+    <state x="100" y="76" width="1240" height="824" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616168580567" />
+    <state x="100" y="84" width="1240" height="768" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.816/-1920.-210.1920.1057@0.23.1440.816" timestamp="1611990137392" />
+    <state x="-1787" y="-132" width="1654" height="922" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.821/-1920.-210.1920.1057@-1920.-210.1920.1057" timestamp="1612359157582" />
+    <state x="100" y="100" width="1240" height="700" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.821/-1920.-210.1920.1057@0.23.1440.821" timestamp="1611120239710" />
+    <state x="-1787" y="-132" width="1654" height="922" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.821/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615870253531" />
+    <state x="-1787" y="-132" width="1654" height="922" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.822/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616650740505" />
+    <state x="-1787" y="-132" width="1654" height="922" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.877/-1920.-233.1920.1003@-1920.-233.1920.1003" timestamp="1613482895173" />
+    <state x="100" y="52" width="1241" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1616400072606">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1787" y="-132" width="1654" height="921" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1613560209917" />
+    <state x="100" y="52" width="1241" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616400072606" />
+    <state x="100" y="52" width="1241" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.816/-1920.-210.1920.1057@0.23.1440.816" timestamp="1616161637898" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.821/-1920.-210.1920.1057@0.23.1440.821" timestamp="1612846081481" />
+    <state x="100" y="52" width="1241" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/-1920.-210.1920.989@0.23.1440.877" timestamp="1616254501524" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1613627196839">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1440.816/-1920.-210.1920.1057@0.23.1440.816" timestamp="1613627196839" />
+    <state x="390" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1616479242122">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1400" y="105" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1616132955946" />
+    <state x="390" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616479242122" />
+    <state x="390" y="279" key="com.intellij.ide.util.TipDialog/0.23.1440.816/-1920.-210.1920.1057@0.23.1440.816" timestamp="1613382553041" />
+    <state x="284" y="193" width="871" height="590" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616235656561">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="284" y="193" width="871" height="590" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616235656561" />
+    <state x="-1920" y="-210" width="1920" height="982" key="dock-window-1" timestamp="1616222462445">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state x="-1920" y="-210" width="1920" height="982" key="dock-window-1/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616222462445" />
+    <state x="-1902" y="-228" width="1878" height="1055" maximized="true" key="dock-window-1/0.23.1440.877/-1920.-210.1920.982@0.23.1440.877" timestamp="1616218630636" />
+    <state x="390" y="248" key="git4idea.merge.GitPullDialog" timestamp="1611497018146">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="390" y="248" key="git4idea.merge.GitPullDialog/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1611497018146" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1616493007761">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1407" y="-99" width="894" height="812" key="search.everywhere.popup/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615981496646" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-233.1920.1080@0.0.1440.900" timestamp="1616493007761" />
+    <state x="-1230" y="151" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615641069715">
+      <screen x="-1920" y="-233" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="151" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900/-1920.-233.1920.1080@-1920.-233.1920.1080" timestamp="1615641069715" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

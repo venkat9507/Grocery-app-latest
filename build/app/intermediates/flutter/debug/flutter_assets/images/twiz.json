@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "twiz-637c4",
+  "private_key_id": "834f48e409d382b8c459456bcd4fb39f9666c27d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxH6MdldcPrKZL\nYDk1qmdZ663mfXV0Na9eEVkjAT4Q4i16/E/jl2xVhFq34QDe366Mw9E+8GH9oMeB\n97pCT1YxOScYiZJGNjnxzqiwCZNaDrd6W5R+u6fUesp8ZbDMYfudE1R/DMv2/wEj\nZGYrKfa4XF7/RK+j0EmqDe6NABHfkTK4KIT6iQu7MF0fDcM+qC4UapN0KqRNOHFp\nXSs3JPE3rri9/XmJsVXoIXtnTV6SGbtrCo/l0pJ9NHSqDtaRKf65/RjzcuK6RfsW\nMsJfDjT+xtvshaQgacyWedS3omo4xE0QDZqKDxw7d8eFpywamEGnFSrrLCv7ixWx\n7NKOLANPAgMBAAECggEAHUmKaqdulqBpJNiFzSpeiX9PU2fWRn9j/m1m7ENV1GvZ\nslbLDOpqVt+aMoJpZvDch1kPndUYltwBcSuZqEI/EceN/+AriCGKRkHyIZ2LuF3r\nl7dR3/y+fQNKvPQBnmHrPWdHVvSyOyaiNQxyWlvHeGeJq7LbSf50V8KS+cyTqAAv\nSrFcf65JNY+8XSt8NyDJ7m4Bia/PqqM88KObHyVqEd/SY6/P3SnETr9AfVmiMDlZ\nENGutZOxRBKFG20XNpjQIR6Aamo6F7mlryZiMAa6hJRXxzVfo8ZaBaA3O45Ser7R\nvyDABhU0+5BRzjp64Nf/1Q152zD+SDAgF5RvOYugRQKBgQDbxzeqLCtKKGbgk7+D\njyeZQ717/yyl+UDu0Q5YzCu3yohDTwJwrkYrDHQev8yYXZ7PaM510EOo5/vjOqsF\nJIpm2IEBUvfxubkOUvub1QTpisDlg7imBSdeHJly9ytHJaR2afEPidTAlCosBiTd\nCOMCQsH4XMK5jFHwaA2BJDjcowKBgQDOUMFv5TQrPxzVUCSsaWX6vDIbR44jT/cA\nGYF3IRnR9XZlSVHEtvO812lj9qbg7Uz0cEHObzmWNUELei5swjNCvfOLqE7lAJqX\n6RIx4XtlnwWimj3uGQn/uloqjFmPIO/w95QWg/wPcse45ZfBvlqlXPJytvpGE42S\nG2dQO6+dZQKBgQCqHp3W6pOjtnxTr+oZgrELMOU2WwILg1Ggyk/JqljYzjwFpd3k\nrPGBlwU3XA2ZjzZDpAPULB6DWvaeICaLN4quKz5IcRmdkb5N+SvrpstDn3TK89f1\nIp4jeg3JcMueKeQRCNZgybbWTpoKM8NLGPrnIBeXEO5lw9kVNuXlJc2h8wKBgQC4\noapKUaq7HPLXrq3zIStjFHIe2Y1I6rHXg/vJOXUa4PkAMXocecFr+LZXAA9dcN+S\nTLeHXyAA3U2FUOUk7THkg4rlK0zXQRAX7DsdKnU8fvATEMdlQUEieolgVFN9c/Nm\nCJmdAKZcyNIVFFoXxxrlq2VI5ZjZh3wFCcMOGSvSxQKBgCs5G8Z2zHOshDIJFq6L\n0orpSnXOXfy9CK804l0xNgLMQJjywpQP67S7x8KXbJpecGOD7djtkp6JfS1vkKlH\nH0/c3VLt5qC8Apg3PyOCZWhXHMNfx/pe3O4Uj7X17IvXifTxj60/4wFqdQfTMgTv\nyhDhs6li1Q2S6QJERoIePe1u\n-----END PRIVATE KEY-----\n",
+  "client_email": "twiz-chatbot@twiz-637c4.iam.gserviceaccount.com",
+  "client_id": "108210220671603379743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twiz-chatbot%40twiz-637c4.iam.gserviceaccount.com"
+}
