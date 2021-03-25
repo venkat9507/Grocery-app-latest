@@ -95,13 +95,6 @@ class _MyAppsState extends State<MyApps> {
   }
 
 
-  getDataCartList()async{
-    SharedPreferences prefs = await SharedPreferences.getInstance();
-
-    cart = prefs.getStringList('cartData');
-  }
-
-
 
 
   final bloc = GroceryStoreBloc();
