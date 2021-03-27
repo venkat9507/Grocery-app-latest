@@ -114,10 +114,10 @@ androidx/core/R.java
  androidx.core.R$styleable
 com/google/android/gms/measurement/sdk/api/R.java
  com.google.android.gms.measurement.sdk.api.R
-com/google/firebase/analytics/connector/R.java
- com.google.firebase.analytics.connector.R
 com/google/android/gms/auth/R.java
  com.google.android.gms.auth.R
+com/google/firebase/analytics/connector/R.java
+ com.google.firebase.analytics.connector.R
 com/google/android/gms/common/R.java
  com.google.android.gms.common.R
  com.google.android.gms.common.R$integer
@@ -192,16 +192,6 @@ androidx/multidex/R.java
  androidx.multidex.R
 com/lyokone/location_web/R.java
  com.lyokone.location_web.R
- com.lyokone.location_web.R$attr
- com.lyokone.location_web.R$color
- com.lyokone.location_web.R$dimen
- com.lyokone.location_web.R$drawable
- com.lyokone.location_web.R$id
- com.lyokone.location_web.R$integer
- com.lyokone.location_web.R$layout
- com.lyokone.location_web.R$string
- com.lyokone.location_web.R$style
- com.lyokone.location_web.R$styleable
 com/paytm/allinonesdk/R.java
  com.paytm.allinonesdk.R
  com.paytm.allinonesdk.R$anim
@@ -259,22 +249,12 @@ androidx/legacy/v4/R.java
  androidx.legacy.v4.R$string
  androidx.legacy.v4.R$style
  androidx.legacy.v4.R$styleable
-io/grpc/android/R.java
- io.grpc.android.R
 com/google/android/gms/safetynet/R.java
  com.google.android.gms.safetynet.R
+io/grpc/android/R.java
+ io.grpc.android.R
 io/flutter/plugins/pathprovider/R.java
  io.flutter.plugins.pathprovider.R
- io.flutter.plugins.pathprovider.R$attr
- io.flutter.plugins.pathprovider.R$color
- io.flutter.plugins.pathprovider.R$dimen
- io.flutter.plugins.pathprovider.R$drawable
- io.flutter.plugins.pathprovider.R$id
- io.flutter.plugins.pathprovider.R$integer
- io.flutter.plugins.pathprovider.R$layout
- io.flutter.plugins.pathprovider.R$string
- io.flutter.plugins.pathprovider.R$style
- io.flutter.plugins.pathprovider.R$styleable
 androidx/databinding/library/R.java
  androidx.databinding.library.R
  androidx.databinding.library.R$id
@@ -287,18 +267,6 @@ androidx/cardview/R.java
  androidx.cardview.R$dimen
  androidx.cardview.R$style
  androidx.cardview.R$styleable
-androidx/swiperefreshlayout/R.java
- androidx.swiperefreshlayout.R
- androidx.swiperefreshlayout.R$attr
- androidx.swiperefreshlayout.R$color
- androidx.swiperefreshlayout.R$dimen
- androidx.swiperefreshlayout.R$drawable
- androidx.swiperefreshlayout.R$id
- androidx.swiperefreshlayout.R$integer
- androidx.swiperefreshlayout.R$layout
- androidx.swiperefreshlayout.R$string
- androidx.swiperefreshlayout.R$style
- androidx.swiperefreshlayout.R$styleable
 androidx/coordinatorlayout/R.java
  androidx.coordinatorlayout.R
  androidx.coordinatorlayout.R$attr
@@ -311,8 +279,18 @@ androidx/coordinatorlayout/R.java
  androidx.coordinatorlayout.R$string
  androidx.coordinatorlayout.R$style
  androidx.coordinatorlayout.R$styleable
-androidx/lifecycle/livedata/R.java
- androidx.lifecycle.livedata.R
+androidx/swiperefreshlayout/R.java
+ androidx.swiperefreshlayout.R
+ androidx.swiperefreshlayout.R$attr
+ androidx.swiperefreshlayout.R$color
+ androidx.swiperefreshlayout.R$dimen
+ androidx.swiperefreshlayout.R$drawable
+ androidx.swiperefreshlayout.R$id
+ androidx.swiperefreshlayout.R$integer
+ androidx.swiperefreshlayout.R$layout
+ androidx.swiperefreshlayout.R$string
+ androidx.swiperefreshlayout.R$style
+ androidx.swiperefreshlayout.R$styleable
 androidx/appcompat/R.java
  androidx.appcompat.R
  androidx.appcompat.R$anim
@@ -328,10 +306,10 @@ androidx/appcompat/R.java
  androidx.appcompat.R$string
  androidx.appcompat.R$style
  androidx.appcompat.R$styleable
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
 com/google/firebase/measurement_impl/R.java
  com.google.firebase.measurement_impl.R
-androidx/lifecycle/R.java
- androidx.lifecycle.R
 androidx/legacy/coreui/R.java
  androidx.legacy.coreui.R
  androidx.legacy.coreui.R$attr
@@ -344,6 +322,8 @@ androidx/legacy/coreui/R.java
  androidx.legacy.coreui.R$string
  androidx.legacy.coreui.R$style
  androidx.legacy.coreui.R$styleable
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
 androidx/documentfile/R.java
  androidx.documentfile.R
 com/razorpay/razorpay_flutter/R.java
@@ -399,16 +379,9 @@ androidx/customview/R.java
  androidx.customview.R$styleable
 io/github/ponnamkarthik/toast/fluttertoast/R.java
  io.github.ponnamkarthik.toast.fluttertoast.R
- io.github.ponnamkarthik.toast.fluttertoast.R$attr
- io.github.ponnamkarthik.toast.fluttertoast.R$color
- io.github.ponnamkarthik.toast.fluttertoast.R$dimen
  io.github.ponnamkarthik.toast.fluttertoast.R$drawable
  io.github.ponnamkarthik.toast.fluttertoast.R$id
- io.github.ponnamkarthik.toast.fluttertoast.R$integer
  io.github.ponnamkarthik.toast.fluttertoast.R$layout
- io.github.ponnamkarthik.toast.fluttertoast.R$string
- io.github.ponnamkarthik.toast.fluttertoast.R$style
- io.github.ponnamkarthik.toast.fluttertoast.R$styleable
 io/flutter/plugins/firebase/storage/R.java
  io.flutter.plugins.firebase.storage.R
  io.flutter.plugins.firebase.storage.R$attr
@@ -435,6 +408,8 @@ androidx/loader/R.java
  androidx.loader.R$styleable
 com/google/firebase/auth/R.java
  com.google.firebase.auth.R
+com/google/android/gms/stats/R.java
+ com.google.android.gms.stats.R
 paytm/assist/easypay/easypay/R.java
  paytm.assist.easypay.easypay.R
  paytm.assist.easypay.easypay.R$anim
@@ -450,8 +425,6 @@ paytm/assist/easypay/easypay/R.java
  paytm.assist.easypay.easypay.R$string
  paytm.assist.easypay.easypay.R$style
  paytm.assist.easypay.easypay.R$styleable
-com/google/android/gms/stats/R.java
- com.google.android.gms.stats.R
 androidx/legacy/coreutils/R.java
  androidx.legacy.coreutils.R
  androidx.legacy.coreutils.R$attr
@@ -468,18 +441,8 @@ com/google/firebase/components/R.java
  com.google.firebase.components.R
 com/yourcompany/geocoder/R.java
  com.yourcompany.geocoder.R
- com.yourcompany.geocoder.R$attr
- com.yourcompany.geocoder.R$color
- com.yourcompany.geocoder.R$dimen
- com.yourcompany.geocoder.R$drawable
- com.yourcompany.geocoder.R$id
- com.yourcompany.geocoder.R$integer
- com.yourcompany.geocoder.R$layout
- com.yourcompany.geocoder.R$string
- com.yourcompany.geocoder.R$style
- com.yourcompany.geocoder.R$styleable
-com/google/android/gms/ads_identifier/R.java
- com.google.android.gms.ads_identifier.R
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
 androidx/constraintlayout/widget/R.java
  androidx.constraintlayout.widget.R
  androidx.constraintlayout.widget.R$attr
@@ -565,8 +528,6 @@ io/flutter/plugins/firebase/auth/R.java
  io.flutter.plugins.firebase.auth.R$string
  io.flutter.plugins.firebase.auth.R$style
  io.flutter.plugins.firebase.auth.R$styleable
-com/google/android/gms/location/R.java
- com.google.android.gms.location.R
 com/digisailor/fthdaily/R.java
  com.digisailor.fthdaily.R
  com.digisailor.fthdaily.R$anim
@@ -585,6 +546,8 @@ com/digisailor/fthdaily/R.java
  com.digisailor.fthdaily.R$style
  com.digisailor.fthdaily.R$styleable
  com.digisailor.fthdaily.R$xml
+com/google/android/gms/location/R.java
+ com.google.android.gms.location.R
 com/google/android/gms/tasks/R.java
  com.google.android.gms.tasks.R
 com/airbnb/lottie/R.java
@@ -628,6 +591,8 @@ com/google/firebase/installations/interop/R.java
  com.google.firebase.installations.interop.R$string
  com.google.firebase.installations.interop.R$style
  com.google.firebase.installations.interop.R$styleable
+com/tekartik/sqflite/R.java
+ com.tekartik.sqflite.R
 com/razorpay/R.java
  com.razorpay.R
  com.razorpay.R$anim
@@ -655,17 +620,5 @@ androidx/vectordrawable/animated/R.java
  androidx.vectordrawable.animated.R$string
  androidx.vectordrawable.animated.R$style
  androidx.vectordrawable.animated.R$styleable
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-io/flutter/plugins/sharedpreferences/R.java
- io.flutter.plugins.sharedpreferences.R
- io.flutter.plugins.sharedpreferences.R$attr
- io.flutter.plugins.sharedpreferences.R$color
- io.flutter.plugins.sharedpreferences.R$dimen
- io.flutter.plugins.sharedpreferences.R$drawable
- io.flutter.plugins.sharedpreferences.R$id
- io.flutter.plugins.sharedpreferences.R$integer
- io.flutter.plugins.sharedpreferences.R$layout
- io.flutter.plugins.sharedpreferences.R$string
- io.flutter.plugins.sharedpreferences.R$style
- io.flutter.plugins.sharedpreferences.R$styleable
+com/google/android/gms/ads_identifier/R.java
+ com.google.android.gms.ads_identifier.R

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nanbanvicky/AndroidStudioProjects/gorceryappold/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\91790\\AndroidStudioProjects\\Grocery-app-latest\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/nanbanvicky/.gradle/caches/transforms-3/5b026ff6a3d5d595058eb2cf04ac715c/transformed/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\91790\\.gradle\\caches\\transforms-3\\5b026ff6a3d5d595058eb2cf04ac715c\\transformed\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
