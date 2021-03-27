@@ -62,7 +62,7 @@ import 'package:fthdaily/profile/profile.dart';
 import 'package:fthdaily/razorpay/razorpay.dart';
 import 'package:provider/provider.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+// import 'package:shared_preferences/shared_preferences.dart';
 import 'grocery-store/Streambuilder.dart';
 import 'grocery-store/cart demo.dart';
 import 'grocery-store/grocery_store_products.dart';
@@ -96,9 +96,9 @@ class _MyAppsState extends State<MyApps> {
 
 
   getDataCartList()async{
-    SharedPreferences prefs = await SharedPreferences.getInstance();
-
-    cart = prefs.getStringList('cartData');
+    // SharedPreferences prefs = await SharedPreferences.getInstance();
+    //
+    // cart = prefs.getStringList('cartData');
   }
 
 

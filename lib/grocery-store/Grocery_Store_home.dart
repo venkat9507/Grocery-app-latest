@@ -255,6 +255,20 @@ class __AppbarGroceryState extends State<_AppbarGrocery> {
                 style: TextStyle(color: Colors.black),
               ),
             ),
+            // Expanded(
+            //     child: IconButton(
+            //       icon:Icon(Icons.search),
+            //       onPressed: (){},
+            //     ),
+            // ),
+            Stack(
+              children: [
+                 IconButton(
+                  icon:Icon(Icons.search),
+                  onPressed: (){},
+                ),
+              ],
+            ),
             Stack(
               children: [
                 IconButton(icon: Icon(Icons.shopping_cart), onPressed: ()async{
